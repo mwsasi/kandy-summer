@@ -1,0 +1,7 @@
+{
+  "name": "Kandy Summer Music Fest - Official Registration",
+  "description": "Secure event registration platform for the Kandy Summer Music Fest 2026. Features include attendee registration, free early bird ticket management, and an organizer dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
